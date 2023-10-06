@@ -1,0 +1,45 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Inter', sans-serif;
+    background-color: #ebcece;
+    color:rgb(39, 37, 36);
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+header {
+    background-color: #821f1f;
+    color: #cac3c3;
+    padding: 18px;
+    border-radius: 10px;
+    box-shadow: 0 0 15 rgb(32, 30, 30);
+}
+
+h1 {
+    font-family:'Pacifico', 'cursive';
+    font-size: 60px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.lyrics {
+    font-family: 'Georgia', 'curisve';
+    margin-top: 20px;
+    font-size: 24px;
+    line-height: 1.8;
+    padding-top: 29px;
+    padding: 20px;
+    text-align: left;
+    background-color: #f1bcbc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+footer{
+    font-size: smaller;
+    margin-top: 20px;
+}
